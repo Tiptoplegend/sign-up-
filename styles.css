@@ -1,7 +1,11 @@
 form {
-  margin-top:100 ;
+  margin-top:200px;
+  margin-bottom: 100px;
+  margin-left: 500px;
+  margin-right: 500px;
   background-color: white;
   text-align: center;
+  padding: 10px;
  
 }
 h2 {
@@ -15,4 +19,8 @@ body {
   background-image: url("./3000.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+.mouse{
+    display: ;
+    justify-content: center;
 }
